@@ -1,5 +1,5 @@
 # QOSF_Ashutosh
-This contain my solution for the QOSH cohort test question number 2.
+This contain my solution for the QOSF cohort test question number 2.
 
 I have encode the list onto a quantum circuit using a orcle. Number of qubits required to encode is equal to the length of the list. Oracle flip the qubit with index corresponding to positive element in the list. Total 
 number of qubits required for the algoritm is equal to lenght of the list + 1. Last qubit is the measurement qubit on which the measurement operation will be performed. Multi qubit toffoli gate is applied with control
